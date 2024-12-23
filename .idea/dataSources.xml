@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="full_control" uuid="b9146ba0-4652-4876-9571-23408583ed8a">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\lenovo\Desktop\task\full_control.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="test" uuid="88f5605c-864f-4cc9-814a-79f44e9f9ff2">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\lenovo\Desktop\task\test.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
